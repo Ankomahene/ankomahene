@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently working on
   + [NPM Lib: ms-react-progress-bar](https://ankomahene.github.io/ms_react-progress-bar/)
-  + [Quiz Portal](https://quiz-portal.netlify.app/create-quiz)
   + [UI Dynamik](https://uidynamik.netlify.app/)
   + [60 Apps](https://ms-apps-dashboard.netlify.app/)
   
