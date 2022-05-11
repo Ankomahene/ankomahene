@@ -15,7 +15,7 @@ I am a software engineer with 4 years of experience in frontend development. Pro
 + JavaScript, 4 years
 + React, 4 years
 + Angular, 3 years
-+ TypeScript, 2 years
++ TypeScript, 3 years
 + Git, 4 years
 
 ## Additional Skills
