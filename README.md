@@ -1,3 +1,8 @@
+## My GitHub Stats &#x1f4c8;
+
+<a href="https://github.com/ankomahene/ankomahene">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankomahene&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 I am a software engineer with 4 years of experience in frontend development. Proficient with HTML, CSS, JavaScript, React, Angular and Typescript. I am passionate about learning and development with the desire to leverage my skills. I have worked in a startup environment and a large corporate team. Having worked with highly talented developers and teams, I understand the importance of clean code and having worked remotely for 2+ years, I understand the importance of good communication.
 
@@ -28,12 +33,6 @@ I am a software engineer with 4 years of experience in frontend development. Pro
 + SASS | 3 years
 + Next.js | 2 years
 + Azure | 1 year
-
-## My GitHub Stats &#x1f4c8;
-
-<a href="https://github.com/ankomahene/ankomahene">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankomahene&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 #
 
