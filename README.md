@@ -29,12 +29,12 @@ I am a software engineer with 4 years of experience in frontend development. Pro
 + GraphQL, 1 year
 + PostgreSQL, 3 years
 + Microservices, 1 year
-+ Cypress | 1 year
-+ Spring Boot | 1 year
-+ Firebase | 2 years
-+ SASS | 3 years
-+ Next.js | 2 years
-+ Azure | 1 year
++ Cypress, 1 year
++ Spring Boot, 1 year
++ Firebase, 2 years
++ SASS, 3 years
++ Next.js, 2 years
++ Azure, 1 year
 
 #
 
