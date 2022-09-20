@@ -6,7 +6,7 @@
 
 #
 
-I am a software engineer with 4 years of experience in frontend development. Proficient with HTML, CSS, JavaScript, React, Angular and Typescript. I am passionate about learning and development with the desire to leverage my skills. I have worked in a startup environment and a large corporate team. Having worked with highly talented developers and teams, I understand the importance of clean code and having worked remotely for 2+ years, I understand the importance of good communication.
+I am a software engineer with 4+ years of experience in frontend development. Proficient with HTML, CSS, JavaScript, React, Angular and Typescript. I am also a self-motivated person who is willing to go above and beyond on any project. I have worked in a startup environment and a large corporate team. Having worked with highly talented developers and teams, I understand the importance of clean code and having worked remotely for 2+ years, I understand the importance of good communication.
 
 ## Technical Skills
 
