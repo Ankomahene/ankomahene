@@ -6,14 +6,15 @@
 
 #
 
-I am a software engineer with 4+ years of experience in frontend development. Proficient with HTML, CSS, JavaScript, React, Angular and Typescript. I am also a self-motivated person who is willing to go above and beyond on any project. I have worked in a startup environment and a large corporate team. Having worked with highly talented developers and teams, I understand the importance of clean code and having worked remotely for 2+ years, I understand the importance of good communication.
+I am a software engineer with 5 years of experience in frontend development. Proficient with HTML, CSS, JavaScript, React, Next.js Angular and Typescript. I am also a self-motivated person who is willing to go above and beyond on any project. I have worked in a startup environment and a large corporate team. Having worked with highly talented developers and teams, I understand the importance of clean code and having worked remotely for 2+ years, I understand the importance of good communication.
 
 ## Technical Skills
 
-+ HTML, 4 years 
-+ CSS, 4 years
-+ JavaScript, 4 years
++ HTML, 5 years 
++ CSS, 5 years
++ JavaScript, 5 years
 + React, 4 years
++ Next.js, 2 years
 + Angular, 3 years
 + TypeScript, 3 years
 + Git, 4 years
@@ -31,23 +32,24 @@ I am a software engineer with 4+ years of experience in frontend development. Pr
 + Microservices, 1 year
 + Cypress, 1 year
 + Spring Boot, 1 year
-+ Firebase, 2 years
++ Firebase, 3 years
++ Supabase, 1 year
 + SASS, 3 years
-+ Next.js, 2 years
 + Azure, 1 year
 
 #
-
+<!--
 - 🔭 I’m currently working on
   + [NPM Lib: ms-react-progress-bar](https://ankomahene.github.io/ms_react-progress-bar/)
   + [UI Dynamik](https://uidynamik.netlify.app/)
   + [60 Apps](https://ms-apps-dashboard.netlify.app/)
-  
+  -->
 
 <!--
 <a href="https://github.com/ankomahene/ankomahene">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankomahene&hide=html&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 
 
 Here are some ideas to get you started:
