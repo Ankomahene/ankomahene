@@ -1,43 +1,72 @@
 ## My GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/ankomahene/ankomahene">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankomahene&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankomahene&theme=github_dark&show_icons=true" />
 </a>
 
 #
 
-I am a software engineer with 5 years of experience in frontend development. Proficient with HTML, CSS, JavaScript, React, Next.js, Angular and Typescript. I am also a self-motivated person who is willing to go above and beyond on any project. I have worked in a startup environment and a large corporate team. Having worked with highly talented developers and teams, I understand the importance of clean code and having worked remotely for 2+ years, I understand the importance of good communication.
+I am a software engineer with 5 years of experience in frontend development. Proficient with HTML, CSS, JavaScript, React, Next.js, Angular and Typescript. I am also a self-motivated person who is willing to go above and beyond on any project. I have worked in a startup environment and a large corporate team. Having worked with highly talented developers and teams, I understand the importance of clean code, and having worked remotely for 2+ years, I understand the importance of good communication.
 
-## Technical Skills
 
-+ HTML, 5 years 
-+ CSS, 5 years
-+ JavaScript, 5 years
-+ React, 4 years
-+ Next.js, 2 years
-+ Angular, 3 years
-+ TypeScript, 3 years
-+ Git, 4 years
+
+## Super Powers
+
++ HTML
++ CSS
++ JavaScript
++ React
++ Next.js
++ Angular
++ TypeScript
++ Git
 
 ## Additional Skills
-+ Java, 3 years
-+ Python, 2 years
-+ MongoDB, 2 years
-+ Agile, 3 years
-+ Bootstrap, 4 years
-+ Node.js, 2 years
-+ AWS, 1 year
-+ GraphQL, 1 year
-+ PostgreSQL, 3 years
-+ Microservices, 1 year
-+ Cypress, 1 year
-+ Spring Boot, 1 year
-+ Firebase, 3 years
-+ Supabase, 1 year
-+ SASS, 3 years
-+ Azure, 1 year
 
-#
+### Frontend
++ Bootstrap
++ SASS/SCSS
++ Tailwindcss
+
+### Backend
++ Java
++ Python
++ Nodej.s
+
+### Databases
++ MongoDB, 2 years
++ Postress
++ Supabase
++ Firebase
++ Couch DB
++ Airtable
+
+### All Others
+
++ GraphQL
++ REST
++ JSON
+  
++ Cypress
++ Jasmine and Karma
++ React Testing Libraries
+
++ Agile
++ CI/CD
+
++ Microservices
++ Spring Boot
+  
++ Azure
++ AWS
++ Jenkins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ankomahene&repo=image-gallery-filter)](https://github.com/Ankomahene/image-gallery-filter)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankomahene)](https://github.com/Ankomahene/)
+
+
+
 <!--
 - 🔭 I’m currently working on
   + [NPM Lib: ms-react-progress-bar](https://ankomahene.github.io/ms_react-progress-bar/)
@@ -45,12 +74,9 @@ I am a software engineer with 5 years of experience in frontend development. Pro
   + [60 Apps](https://ms-apps-dashboard.netlify.app/)
   -->
 
+
+
 <!--
-<a href="https://github.com/ankomahene/ankomahene">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankomahene&hide=html&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
 
 Here are some ideas to get you started:
 
