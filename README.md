@@ -1,8 +1,10 @@
 ## My GitHub Stats &#x1f4c8;
 
-<a href="https://github.com/ankomahene/ankomahene">
+<!-- <a href="https://github.com/ankomahene/ankomahene">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankomahene&theme=github_dark&show_icons=true" />
-</a>
+</a> -->
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ankomahene)](https://github.com/ankomahene/github-readme-stats)
 
 #
 
