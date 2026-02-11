@@ -1,10 +1,23 @@
 ## My GitHub Stats &#x1f4c8;
 
-<!-- <a href="https://github.com/ankomahene/ankomahene">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankomahene&theme=github_dark&show_icons=true" />
-</a> -->
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&fontFamily=Inter&preferLogin=false">
+    <img  alt="ankomahene's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ankomahene?cardType=github&theme=dark&fontFamily=Inter&preferLogin=false" />
+  </a>
+  
+  <br/>
+  <br/>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankomahene&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankomahene&theme=2077&utcOffset=8)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ankomahene)](https://github.com/ankomahene/github-readme-stats)
+<!-- <a href="https://github.com/ankomahene/ankomahene">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankomahene&theme=radical" />
+</a>
+
+https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact
+
+ -->
+
 
 #
 
